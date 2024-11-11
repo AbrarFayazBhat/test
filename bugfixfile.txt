@@ -2,3 +2,4 @@ it is the file of bug fix branch;;
 fixed bug after merging
 
 added msg in the bugfixfile in the master branch
+added msg in bug fix branch
