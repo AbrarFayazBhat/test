@@ -1,1 +1,3 @@
 hi 
+
+msg after adding content in bugfixfile after merge 1
