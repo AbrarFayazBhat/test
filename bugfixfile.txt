@@ -1,2 +1,4 @@
 it is the file of bug fix branch;;
 fixed bug after merging
+
+added msg in bug fix branch
